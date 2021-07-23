@@ -1,0 +1,26 @@
+{
+  "name": "essentialrestore",
+  "version": "1.0.0",
+  "description": "Restore your Essentials",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virejdasani/EssentialRestore.git"
+  },
+  "keywords": [
+    "Essential",
+    "Restore"
+  ],
+  "author": "Virej Dasani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virejdasani/EssentialRestore/issues"
+  },
+  "homepage": "https://github.com/virejdasani/EssentialRestore#readme",
+  "dependencies": {
+    "electron": "^13.1.7"
+  }
+}
