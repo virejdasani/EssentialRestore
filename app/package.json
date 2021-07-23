@@ -4,7 +4,8 @@
   "description": "Restore your Essentials",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -14,7 +15,7 @@
     "Essential",
     "Restore"
   ],
-  "author": "Virej Dasani",
+  "author": "Arnav Jain, Virej Dasani",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/virejdasani/EssentialRestore/issues"
