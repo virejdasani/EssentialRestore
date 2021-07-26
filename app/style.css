@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/inAppAssets/fonts/Poppins/Poppins-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: #454445;
+}
+
+#app {
+  color: #9a9a9a;
+  font-family: "Poppins";
+  display: flex;
+  height: 100%;
+}
+
+.pane {
+  background-color: #333232;
+  padding: 15px;
+  border-radius: 10px;
+  height: 100%;
+}
+
+#leftPane {
+  width: 20%;
+  margin-left: 15px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+.leftPaneButton {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.leftPaneButton:hover {
+  background-color: #454445;
+}
+
+#mainPane {
+  width: 80%;
+  margin: 20px;
+  margin-top: 16px;
+}
+
+#appLogo {
+  height: 64px;
+}
+
+.row {
+  display: flex;
+}
