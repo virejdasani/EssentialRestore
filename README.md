@@ -1,5 +1,9 @@
 # Essential Restore
+
 Restore your essentials
 
-- Mockup
-![](https://raw.githubusercontent.com/virejdasani/EssentialRestore/master/mockups/mockup1.png)
+- App so far
+  ![](https://raw.githubusercontent.com/virejdasani/EssentialRestore/master/assets/AppPreview.png)
+
+- Note
+  This project is no longer receiving commits by Virej Dasani :( However, if you want, you can still contribute here by making a pull request to make this project a reality
